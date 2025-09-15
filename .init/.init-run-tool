@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && flask run --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/tech-haven-customer-support-bot-1313-1322/tech_haven_backend"
+}
